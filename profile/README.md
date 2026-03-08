@@ -1,7 +1,7 @@
 <!-- Profil-README für github.com/Pappmann -->
 <!-- Diese Datei wird auf deiner GitHub-Profilseite angezeigt -->
 
-<h1 align="center">👋 Willkommen, ich bin <code>Pappmann</code></h1>
+<h1 align="center">👋 Sei gegrüßt, ich bin <code>Pappmann</code></h1>
 
 <p align="center">
   <em>Entwickler, Denker, Musiker – auf der Suche nach Sinn in Code und Leben.</em><br>
